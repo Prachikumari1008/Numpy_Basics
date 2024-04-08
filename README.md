@@ -37,6 +37,8 @@
          Created using high-performance languages like C and C++.
 
       2. Used with Various Libraries
+      
+         NumPy is heavily used with various libraries like Pandas, Scipy, scikit-learn, etc.
 
 NumPy is heavily used with various libraries like Pandas, Scipy, scikit-learn, etc.
   ## Installation of NumPy
