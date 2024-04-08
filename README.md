@@ -23,15 +23,18 @@
 
 ## Why Use NumPy?
    The major reasons why we should use NumPy are:
+   
       1. Faster Execution  
+      
       In Python, we use lists to work with arrays. But when it comes to large array operations, Python lists are not optimized enough.
 
-Numpy arrays are optimized for complex mathematical and statistical operations. Operations on NumPy are up to 50x faster than iterating over native Python lists using loops.
+       Numpy arrays are optimized for complex mathematical and statistical operations. Operations on NumPy are up to 50x faster than iterating over native Python lists using loops.
 
-Here're some of the reasons why NumPy is so fast:
+       Here're some of the reasons why NumPy is so fast:
 
-Uses specialized data structures called numpy arrays.
-Created using high-performance languages like C and C++.
+         Uses specialized data structures called numpy arrays.
+         
+         Created using high-performance languages like C and C++.
 
       2. Used with Various Libraries
 
